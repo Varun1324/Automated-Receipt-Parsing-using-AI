@@ -1,7 +1,7 @@
 import PIL.Image
 import google.generativeai as genai
 
-genai.configure(api_key="API_KEY")
+genai.configure(api_key="AIzaSyC9mlxQ_ml9MSCJGl309XAmxe_HeKR6YT8")
 
 generation_config = {
     "temperature": 1,
